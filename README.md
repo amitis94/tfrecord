@@ -13,19 +13,19 @@ I used "LabelImg" tool
 
 You should change data structure format like "PASCAL VOC2012"
 
-📦VOC2012
- ┣ 📂Annotations
- ┃ ┣ 📜sample.xml # <filename> tag must same JPEGImages's filename
- ┃ ┗ 📜sample2.xml
- ┣ 📂ImageSets
- ┃ ┗ 📂Main
- ┃ ┃ ┣ 📜Mold_train.txt # change class name into your dataset class information
- ┃ ┃ ┗ 📜Mold_val.txt
- ┣ 📂images
- ┃ ┗ 📂JPEGImages
- ┃ ┃ ┣ 📜sample.jpg
- ┃ ┃ ┗ 📜sample2.jpg
- ┗ 📜label_map.json # label information, check name and number
+📦VOC2012 \
+ ┣ 📂Annotations \
+ ┃ ┣ 📜sample.xml # <filename> tag must same JPEGImages's filename \
+ ┃ ┗ 📜sample2.xml \
+ ┣ 📂ImageSets \
+ ┃ ┗ 📂Main \
+ ┃ ┃ ┣ 📜Mold_train.txt # change class name into your dataset class information \
+ ┃ ┃ ┗ 📜Mold_val.txt \
+ ┣ 📂images \
+ ┃ ┗ 📂JPEGImages \
+ ┃ ┃ ┣ 📜sample.jpg \
+ ┃ ┃ ┗ 📜sample2.jpg \
+ ┗ 📜label_map.json # label information, check name and number \
 
 ## 2. run (check date : 24/12/12)
 
