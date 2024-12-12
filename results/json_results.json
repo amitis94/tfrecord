@@ -1,0 +1,1 @@
+{"images": [{"file_name": "sample.jpg", "height": 2840, "width": 2840, "id": 1}], "type": "instances", "annotations": [{"area": 2234293, "iscrowd": 0, "image_id": 1, "bbox": [1, 1, 787, 2839], "category_id": 0, "id": 1, "ignore": 0, "segmentation": []}], "categories": [{"supercategory": "none", "id": 0, "name": "Mold"}]}
