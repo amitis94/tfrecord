@@ -25,7 +25,7 @@ You should change data structure format like "PASCAL VOC2012"
  ┃ ┗ 📂JPEGImages \
  ┃ ┃ ┣ 📜sample.jpg \
  ┃ ┃ ┗ 📜sample2.jpg \
- ┗ 📜label_map.json # label information, check name and number \
+ ┗ 📜label_map.json # label information, check name and number
 
 ## 2. run (check date : 24/12/12)
 
